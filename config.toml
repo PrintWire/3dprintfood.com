@@ -1,0 +1,214 @@
+baseURL = "https://3dprintfood.com/"
+languageCode = "en-us"
+title = "3D Print Food"
+theme = "printwire"
+
+[params]
+tagline       = "Where Gastronomy Meets Technology."
+description   = "3D Print Food — multi-material food printing for haute cuisine, personalized nutrition, and food tech R&D. Chocolate, sugar, puree, and gel deposition at culinary precision."
+keywords      = "3D food printing, food additive manufacturing, edible printing, chocolate printing, personalized nutrition, food tech, haute cuisine, food innovation, food R&D"
+logoEmoji     = "🍽️"
+contactEmail  = "maxdavisgroup@gmail.com"
+ogImage       = "https://images.unsplash.com/photo-1521713362244-1b5e5d150b29?w=1200&q=80"
+footerServicesLabel = "Services"
+
+colorPrimary      = "#ff2d87"
+colorPrimaryDark  = "#d4206e"
+colorPrimaryLight = "#ff5aa8"
+colorBgDark       = "#0f0810"
+colorBgSection    = "#130b14"
+colorBgCard       = "#1a1020"
+colorBgCardHover  = "#221528"
+colorBorder       = "rgba(255,45,135,0.20)"
+colorBorderLight  = "rgba(255,45,135,0.09)"
+
+fontPrimary   = "Outfit"
+fontSecondary = "Outfit"
+
+pubmedQuery        = "food+3D+printing+additive+manufacturing+nutrition"
+pubmedFallback     = "food+3D+printing"
+newsFallbackImages = [
+  "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=600&q=80",
+  "https://images.unsplash.com/photo-1498837167922-ddd27525d352?w=600&q=80",
+  "https://images.unsplash.com/photo-1466637574441-749b8f19452f?w=600&q=80",
+]
+
+heroEyebrow  = "Food Technology & Culinary AM"
+heroTitle    = "3D Print <em>Food</em>"
+heroSubtitle = "Multi-material food 3D printing at the intersection of gastronomy and technology — chocolate, isomalt, fruit gels, and savory purees printed in precise architectures for haute cuisine and food innovation."
+heroCta1Text = "Explore Services"
+heroCta1URL  = "/services/"
+heroCta2Text = "Get a Quote"
+heroCta2URL  = "/contact/"
+heroImage    = "https://images.unsplash.com/photo-1521713362244-1b5e5d150b29?w=1200&q=80"
+
+newsSectionTitle    = "Latest in Food Printing & Culinary Tech"
+newsSectionSubtitle = "Research and industry news from the food additive manufacturing and precision nutrition field."
+
+overviewLabel   = "Food Materials"
+overviewTitle   = "Printable Food Ingredients"
+overviewText    = "We work with your formulation — or develop one. Any pumpable food material can be precisely deposited: chocolate, sugar, puree, gel, or paste. From 0.5 mm micro-garnishes to full plated constructs."
+overviewText2   = "Allergen-free, dietary-compliant, and nutritionally calibrated formulations available. FDA food-contact materials throughout."
+overviewImage   = "https://images.unsplash.com/photo-1621939514649-280e2ee25f60?w=800&q=80"
+overviewBtnText = "View Services"
+overviewBtnURL  = "/services/"
+
+applicationsLabel = "Applications"
+applicationsTitle = "Food Printing Across Industries"
+
+servicesLabel    = "What We Offer"
+servicesTitle    = "Food Printing Services"
+servicesSubtitle = "From fine dining garnishes to clinical nutrition — precision food 3D printing for every application."
+
+clusterLabel = "PrintWire Network"
+clusterTitle = "Related 3D Printing Resources"
+
+newsletterTitle = "Food Tech Updates to Your Inbox"
+newsletterText  = "New techniques, ingredient breakthroughs, and industry news — delivered monthly. No spam."
+
+ctaTitle   = "Print Your Food Vision"
+ctaText    = "Whether you're a Michelin-starred kitchen, a food-tech startup, or a clinical nutrition researcher — we'll help you print it precisely."
+ctaImage   = "https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=1200&q=80"
+ctaBtnText = "Start Your Project"
+ctaBtnURL  = "/contact/"
+
+# ── Array tables come LAST ────────────────────────────────────────────
+
+[[params.stats]]
+count  = 100
+suffix = "%"
+label  = "Food Safe Materials"
+
+[[params.stats]]
+count  = 6
+suffix = "+"
+label  = "Simultaneous Materials"
+
+[[params.stats]]
+count  = 3
+suffix = "B+"
+label  = "Market by 2030 (USD)"
+
+[[params.stats]]
+count  = 28
+suffix = "%"
+label  = "Annual Growth CAGR"
+
+[[params.applications]]
+title       = "Haute Cuisine & Fine Dining"
+description = "Precision edible garnishes, architectural sauce geometries, and multi-layer plating elements that manual plating cannot repeat across a full restaurant service."
+image       = "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=800&q=80"
+
+[[params.applications]]
+title       = "Personalized Nutrition"
+description = "Nutritionally calibrated food products for clinical and wellness applications — dysphagia-friendly textures with precise macro and micronutrient dosing."
+image       = "https://images.unsplash.com/photo-1661882217431-b64b303fb1d0?w=800&q=80"
+
+[[params.applications]]
+title       = "Confectionery & Chocolate"
+description = "Tempered chocolate prints with precision snap and gloss. Isomalt sugar structures in clear, opaque, and multi-color options for pastry and confectionery applications."
+image       = "https://images.unsplash.com/photo-1511381939415-e44015466834?w=800&q=80"
+
+[[params.applications]]
+title       = "Food R&D & Prototyping"
+description = "Rapidly prototype new food product concepts — test texture combinations, flavor delivery geometries, and novel ingredient pairings at small scale before production."
+image       = "https://images.unsplash.com/photo-1631016042350-a3a5a5cdf2e0?w=800&q=80"
+
+[[params.servicesPreview]]
+icon        = "🍽️"
+title       = "Haute Cuisine Plating"
+description = "Multi-material edible garnishes and precision sauce geometries for fine dining. Repeatable across a full service."
+
+[[params.servicesPreview]]
+icon        = "💊"
+title       = "Personalized Nutrition"
+description = "Clinically calibrated food formats for dysphagia, oncology nutrition, and precision wellness applications."
+
+[[params.servicesPreview]]
+icon        = "🍫"
+title       = "Chocolate & Confectionery"
+description = "Tempered chocolate and isomalt sugar printing. Precise geometries for pastry chefs and confectionery brands."
+
+[[params.servicesPreview]]
+icon        = "🔬"
+title       = "Food Tech R&D"
+description = "Rapid prototyping for food product development. Test textures, geometries, and ingredient combinations before committing to production."
+
+[[params.services]]
+name        = "Haute Cuisine Plating"
+description = "Multi-material edible prints for fine dining — architectural garnishes, precision sauce geometries, and textural contrasts with repeatability across service."
+icon        = "🍽️"
+image       = "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=800&q=80"
+
+[[params.services]]
+name        = "Personalized Nutrition"
+description = "Nutritionally calibrated food products for clinical and wellness use. Dysphagia-friendly textures with embedded macro and micronutrient dosing."
+icon        = "💊"
+image       = "https://images.unsplash.com/photo-1661882217431-b64b303fb1d0?w=800&q=80"
+
+[[params.services]]
+name        = "Chocolate & Confectionery"
+description = "Tempered chocolate with precision snap and gloss. Isomalt sugar in clear, opaque, and multi-color for pastry and confectionery brands."
+icon        = "🍫"
+image       = "https://images.unsplash.com/photo-1511381939415-e44015466834?w=800&q=80"
+
+[[params.services]]
+name        = "Food Tech R&D"
+description = "Prototype new food concepts rapidly — texture combinations, flavor delivery geometries, and novel ingredient pairings at small scale."
+icon        = "🔬"
+image       = "https://images.unsplash.com/photo-1631016042350-a3a5a5cdf2e0?w=800&q=80"
+
+[[params.clusterLinks]]
+name        = "3dprinttissue.com"
+url         = "https://3dprinttissue.com"
+description = "Bioprinting & tissue engineering"
+
+[[params.clusterLinks]]
+name        = "3dprintceramic.com"
+url         = "https://3dprintceramic.com"
+description = "Ceramic additive manufacturing"
+
+[[params.clusterLinks]]
+name        = "dmls3d.com"
+url         = "https://dmls3d.com"
+description = "Metal 3D printing & DMLS"
+
+[[params.clusterLinks]]
+name        = "3dprintskincare.com"
+url         = "https://3dprintskincare.com"
+description = "Beauty & cosmetic formulation printing"
+
+[[params.clusterLinks]]
+name        = "sendcutship.com"
+url         = "https://sendcutship.com"
+description = "Custom manufacturing services"
+
+[[menu.main]]
+name   = "Home"
+url    = "/"
+weight = 1
+
+[[menu.main]]
+name   = "About"
+url    = "/about/"
+weight = 2
+
+[[menu.main]]
+name   = "Articles"
+url    = "/articles/"
+weight = 3
+
+[[menu.main]]
+name   = "Services"
+url    = "/services/"
+weight = 4
+
+[[menu.main]]
+name   = "Contact"
+url    = "/contact/"
+weight = 5
+
+[[menu.main]]
+name   = "Advertise"
+url    = "/advertise/"
+weight = 6
