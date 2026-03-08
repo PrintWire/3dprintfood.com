@@ -9,7 +9,7 @@ storyText:
   - "3D Print Food is the authoritative resource for food additive manufacturing — covering the science, technology, and culinary application of precision food printing."
   - "We work across the full range of food printing modalities: extrusion-based chocolate and sugar deposition, inkjet flavor printing, and binder jetting for powdered food structures."
   - "From Michelin-starred kitchens to clinical nutrition labs and food-tech startups, we support clients at every stage of food innovation."
-storyImage: "/images/28_gourmet_platter.png"
+storyImage: "/images/17_sushi_precision.png"
 
 missionCards:
   - icon: "🍽️"
